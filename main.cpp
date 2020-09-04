@@ -13,7 +13,7 @@ void clear_screen()
 }
 void start(){
   std::cout << "Du stehst auf einer Strasse und vor dir gabelt sich ein Weg nach links und rechts" << '\n';
-  std::std::cout << "Wohin möchtest du gehen ? (L) oder (R)" << '\n';
+  std::cout << "Wohin möchtest du gehen ? (L) oder (R)" << '\n';
 
 }
 int main() {
