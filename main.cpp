@@ -1,14 +1,14 @@
 #include <iostream>
 #include <cstdlib>
-
+// das wird eine Geschichte fuer Linux Betriebssystem
 void clear_screen()
 {
   #ifdef WINDOWS
       std::system("cls");
   #else
       // Assume POSIX
-      //std::system("clear");
-      std::cout << "\f";
+      std::system("clear");
+
   #endif
 }
 void start(){
