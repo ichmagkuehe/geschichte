@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Funzi\source\repos\ichmagkuehe\geschichte\main.cpp(37,25): warning C4129: "o": nicht erkannte Folge von Escapesequenz
+  geschichte.vcxproj -> C:\Users\Funzi\Source\Repos\ichmagkuehe\geschichte\x64\Debug\geschichte.exe
